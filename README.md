@@ -1,6 +1,6 @@
-# Ford_Bike_Communicating_Findings
+# Ford_Bike_Communicating_Findings: (January-December 2018 data files)
 
-# Dataset:
+# Dataset: https://s3.amazonaws.com/fordgobike-data/index.html
 The dataframe consists of 16 different variables such as Bike Ids,Start and End Stations,Member age, gender and etc. It contains 18,63719 bike rides. Ages in dataset from 18 to 56 takes 95% of the users in dataset.There were users more than 100 years old. So, we can remove users more than 60 years old as a cleaning and tidy up. Also, I generated new fields such as Month,MonthName,Weekdays,Hours,Minutes and Age groups,Average Trip duration and Average Trip Distance  in order to make grouping and analyze the date by using groups
 
 # Summary of Findings:
